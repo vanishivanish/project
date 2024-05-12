@@ -1,0 +1,76 @@
+.head{
+  background: #1d131c;
+}
+body{
+  background: #151515 url(1670049562_3-kartinkin-net-p-fon-dlya-saita-restorana-vkontakte-5.jpg) no-repeat;
+  background-size: cover;
+  background-position: fixed;
+  background-attachment: fixed;
+}
+.btn-outline-lightt {
+  
+  border-color: #f8f9fa;
+}
+.between {
+  overflow:hidden
+}
+.btn-outline-lightt:hover {
+  border-color: #f8f9fa;
+}
+.btn-check:focus + .btn-outline-lightt, .btn-outline-lightt:focus {
+  box-shadow: 0 0 0 0.25rem rgba(248, 249, 250, 0.5);
+}
+.btn-check:checked + .btn-outline-lightt, .btn-check:active + .btn-outline-lightt, .btn-outline-lightt:active, .btn-outline-lightt.active, .btn-outline-lightt.dropdown-toggle.show {
+  border-color: #f8f9fa;
+}
+.btn-check:checked + .btn-outline-light:focus, .btn-check:active + .btn-outline-light:focus, .btn-outline-light:active:focus, .btn-outline-light.active:focus, .btn-outline-light.dropdown-toggle.show:focus {
+  box-shadow: 0 0 0 0.25rem rgba(248, 249, 250, 0.5);
+}
+.violet{
+  background: #1d131c;
+ 
+}
+.border-lightt {
+  border-color: #1d131c !important;
+}
+.btn-darkk {
+  
+  background-color: #1d131c;
+  border-color: #2e1c2c;
+}
+.btn-darkk:hover {
+  
+  background-color: #1d131c;
+  border-color: #2e1c2c
+}
+.btn-check:focus + .btn-darkk, .btn-darkk:focus {
+  color: #fff;
+  background-color: #1c1f23;
+  border-color: #1a1e21;
+  box-shadow: 0 0 0 0.25rem rgba(66, 70, 73, 0.5);
+}
+.btn-check:checked + .btn-darkk, .btn-check:active + .btn-darkk, .btn-darkk:active, .btn-darkk.active, .show > .btn-darkk.dropdown-toggle {
+  color: #fff;
+  background-color: #1a1e21;
+  border-color: #191c1f;
+}
+.btn-check:checked + .btn-dark:focus, .btn-check:active + .btn-dark:focus, .btn-dark:active:focus, .btn-dark.active:focus, .show > .btn-dark.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(66, 70, 73, 0.5);
+}
+.dostavka {
+  background: url(pizzaback.jpg);
+  background-size: cover;
+  color: #d6d1d1
+}
+.invisible{
+  visibility: hidden;
+}
+.visible {
+  visibility: visible;
+}
+.black {
+  color: black;
+}
+.fixed{
+  position: fixed;
+}
